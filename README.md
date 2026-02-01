@@ -2,7 +2,7 @@
 
 ## Welcome to my Github profile! 😄
 
-- I have a degree in business administration and am currently pursuing an MBA in business management (Lato Sensu). Both at Uni-FACEF - Centro Universit´rio de Franca.
+- I have a degree in business administration and am currently pursuing an MBA in business management (Lato Sensu). Both at Uni-FACEF - Centro Universitário de Franca.
 - Although I really enjoy business administration, I felt something was missing, so I decided to transition into tech and ended up finding myself through programming.
 - Currently diving into tech, studying programming logic with JavaScript and Java through Alura.
 
@@ -16,3 +16,8 @@
 
 ## 📫 How to reach me: 
 
+<div>
+<a href="https://instagram.com/adriel_cintra" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:adrielcintra2106@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/adriel-cintra" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
